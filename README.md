@@ -1,0 +1,1 @@
+# AG969-SM228-Smart-I2C-TMR-Magnetometer-Evaluation-Kit
